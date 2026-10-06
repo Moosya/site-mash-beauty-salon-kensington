@@ -1,0 +1,27 @@
+{
+  "shopName": "Mash Beauty Hair Salon",
+  "tagline": "Hair, brows, and facials on Church Avenue, Kensington",
+  "phone": "(718) 633-0086",
+  "address": "406 Church Ave, Brooklyn, NY 11218",
+  "hours": "Tue–Sun 10 AM – 8 PM · Closed Mon",
+  "photoUrl": "hero.jpg",
+  "services": [
+    {
+      "name": "Haircuts & blowouts",
+      "description": "Cuts, layers, wash and blowouts."
+    },
+    {
+      "name": "Eyebrow threading",
+      "description": "Threading, tinting, and waxing."
+    },
+    {
+      "name": "Facials",
+      "description": "Facials and skin treatments. Call to book."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "mash-beauty-salon-kensington",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
